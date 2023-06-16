@@ -7,7 +7,6 @@ All projects are well structured with comments for explainations and it is very 
 
 <ol>
     <p>Get all the code from here : <a href="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project">Click Here</a></p>
-     <br>
     <hr>
     <li>
     <p>3D Card Animation 😃</p>
