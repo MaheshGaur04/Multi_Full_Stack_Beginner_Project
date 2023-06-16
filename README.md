@@ -8,8 +8,9 @@ All projects are well structured with comments for explainations and it is very 
 <ol>
     <li>
     <p>3D Card Animation 😃</p>
-    <img src="./Assets/cardanimation.png" width="150px" height="200">
-    <a href="./3D-Animation-Card/index.html">Click here to get code</a>
+    <img src="./Assets/cardanimation.png" width="150px" height="200"><br>
+    <li><a href="./3D-Animation-Card/index.html">Click here to get code</a></li><br>
+    <li><a href="./3D-Animation-Card/index.html">Click here to get code</a></li>
     </li>
     <br>
     <li>
