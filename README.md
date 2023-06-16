@@ -6,7 +6,7 @@ All projects are well structured with comments for explainations and it is very 
 ### Project List:
 
 <ol>
-    <link scr="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"</link>"Click Here"
+    <link scr="https://github.com/MaheshGaur04/Multi_Full_Stack_Beginner_Project"></link>"Click Here"
      <br>
     <hr>
     <li>
